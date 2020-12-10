@@ -1,0 +1,14 @@
+{
+    "name": "phototravel",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/file_storage/sia": true,
+        "/category/file_storage/sia/mode": "single",
+        "/category/collection/entity": true
+    }
+}
